@@ -1,0 +1,2 @@
+# PythonProject2_email_slicer
+Here I made a simple project that consists of an email slicer which would pick out the username and domain name out of an email address, which user give as an input to the program. Concepts that corresponds to this program are: Slicing, Format String....use of .index() in python and some basic concepts on how to provide input to the program! Checkout the source code to gain its practical insights.
